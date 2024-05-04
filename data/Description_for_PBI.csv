@@ -1,0 +1,6 @@
+﻿Milestione,Description
+Process Explorer,Visualize the process from user registration to the first booking and also depict major errors in the system.
+AVG time to first booking,"KPI measures the average time from user registration to their first reservation. In other words, it reflects how quickly users engage with our system."
+AVG Bookings for user ,KPI pertains to the average number of reservations made by a single user in the system. This allows us to understand how often our users utilize our booking services.
+AVG of service price,"KPI presents the average value of service fees, providing insight into the average amount users spend on a single reservation or service."
+Bookings Compered to last year,KPI displays the total number of reservations made and performs a percentage comparison with the results from the previous year. This enables us to assess the growth or decline dynamics of our business compared to previous periods. 
