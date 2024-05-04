@@ -15,7 +15,7 @@ of steps taken by users within the system.
 
 ## Screenshots
 
-[App prezentation](https://github.com/BrolWojciech/Customer_PBI_dashboard/assets/99769410/a623ec10-1cd7-4507-8729-f286b68e1231)
+![6](https://github.com/BrolWojciech/Customer_PBI_dashboard/assets/99769410/f8e116b6-fc71-4af3-b01b-b5a189daf2a2)
 ![2](https://github.com/BrolWojciech/Customer_PBI_dashboard/assets/99769410/b0b83520-1283-4af8-9fd7-e0e42f322cd2)
 ![3](https://github.com/BrolWojciech/Customer_PBI_dashboard/assets/99769410/57b88526-024d-4c4a-bc13-2c97a99130e2)
 ![4](https://github.com/BrolWojciech/Customer_PBI_dashboard/assets/99769410/af64f58d-9cfd-42d9-8969-7c6d55f96744)
